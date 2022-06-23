@@ -94,6 +94,7 @@ class MealDetailsScreen extends StatelessWidget {
           ],
         ),
       ),
+
       floatingActionButton: FloatingActionButton(
         onPressed: (){
           favoriteMeal(mealID);
